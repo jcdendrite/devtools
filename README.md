@@ -1,6 +1,6 @@
 # devtools
 
-This repository houses scripts to manage a local development environment.
+This repository houses guides and scripts to manage a local development environment.
 
 ## Native installation
 
@@ -13,3 +13,7 @@ The native installation script uses:
 ## Containerization utilities
 
 TBD Docker setup, Mini-kube
+
+## IDE
+
+[VSCode](https://code.visualstudio.com/docs/setup/setup-overview) is recommended. It's light-weight and free.
