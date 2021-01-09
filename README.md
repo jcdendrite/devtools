@@ -9,8 +9,11 @@ Linux and MacOS are supported.
 The native installation script uses:
 * [homebrew](https://brew.sh/) to manage dependencies
 * [pyenv](https://github.com/pyenv/pyenv) to manage python versions
-* [VSCode](https://code.visualstudio.com/docs/setup/setup-overview) as an IDE. It's light-weight and free.
 
 ## Containerization utilities
 
 TBD Docker setup, Mini-kube
+
+## Recommended IDE
+
+[VSCode](https://code.visualstudio.com/download) is light-weight and free.
